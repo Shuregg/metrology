@@ -1,0 +1,1 @@
+python "generate dc value.py"
